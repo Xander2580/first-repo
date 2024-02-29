@@ -1,2 +1,2 @@
 # first-repo
-Author - Pamas Kulung Rai
+Author - Pamas Kulung Rai (Kiranti)
